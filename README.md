@@ -1,11 +1,16 @@
-### Hi there 👋
+### Hi!
 
+
+I'm a undergraduate Robotics Engineering Student at Universidade Federal do ABC (UFABC). Currently working as Robotics Intern at Automni.
+
+
+[![Paulo's GitHub stats](https://github-readme-stats.vercelI'm a undergraduate Robotics Engineering Student at Universidade Federal do ABC (UFABC). Currently working as Robotics Intern at Automni.api?username=PauloRodriguesJr)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **PauloRodriguesJr/PauloRodriguesJr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭  ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
