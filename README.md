@@ -1,7 +1,10 @@
 ### Hi!
 
+I'm a Robotics Engineer from Universidade Federal do ABC (UFABC). 
 
-I'm a undergraduate Robotics Engineering Student at Universidade Federal do ABC (UFABC). Currently working as Robotics Intern at Automni.
+Currently working as Robotics Intern at Rapyuta Robotics in Tokyo- Japan. 
+
+Professional account: @prodrigues-rapyuta
 
 <!-- ![Paulo's GitHub stats](https://github-readme-stats.vercel.app/api?username=PauloRodriguesJr&hide=stars&theme=radical) -->
 
