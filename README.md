@@ -4,8 +4,6 @@ I'm a Robotics Engineer from Universidade Federal do ABC (UFABC).
 
 Currently working as Autonomous Navigation Engineer at Avatarin in Tokyo - Japan. 
 
-Professional account: @prodrigues-rapyuta
-
 <!-- ![Paulo's GitHub stats](https://github-readme-stats.vercel.app/api?username=PauloRodriguesJr&hide=stars&theme=radical) -->
 
 <!--
