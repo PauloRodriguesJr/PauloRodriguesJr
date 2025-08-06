@@ -2,7 +2,7 @@
 
 I'm a Robotics Engineer from Universidade Federal do ABC (UFABC). 
 
-Currently working as Robotics Intern at Rapyuta Robotics in Tokyo- Japan. 
+Currently working as Autonomous Navigation Engineer at Avatarin in Tokyo - Japan. 
 
 Professional account: @prodrigues-rapyuta
 
